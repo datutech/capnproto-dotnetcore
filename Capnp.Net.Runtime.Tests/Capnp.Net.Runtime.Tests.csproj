@@ -1,11 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net6;net471</TargetFrameworks>
+    <TargetFrameworks>net7.0;net471</TargetFrameworks>
 
     <IsPackable>false</IsPackable>
-
-    <LangVersion>7.1</LangVersion>
 
     <OutputType>Library</OutputType>
 
