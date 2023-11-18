@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net471;net7.0</TargetFrameworks>
+    <TargetFrameworks>net7.0</TargetFrameworks>
     <SignAssembly>false</SignAssembly>
     
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
